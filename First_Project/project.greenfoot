@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.car.image=autos_01.png
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=737
+editor.fx.0.width=800
+editor.fx.0.x=701
+editor.fx.0.y=223
 height=589
 package.numDependencies=0
 package.numTargets=2
@@ -38,5 +38,5 @@ target2.y=0
 version=3.0.0
 width=820
 world.lastInstantiated=MyWorld
-xPosition=696
-yPosition=280
+xPosition=661
+yPosition=785

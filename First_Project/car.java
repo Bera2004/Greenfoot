@@ -14,6 +14,7 @@ public class car extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
+        move(3);
+        turn(2);
     }    
 }
